@@ -1,7 +1,7 @@
 [
   {
     "id": 2,
-    "name": "An ice sculpture",
+    "name": "Sun Moon",
     "price": 12.50,
     "tags": ["cold", "ice"],
     "dimensions": {
@@ -16,7 +16,13 @@
   },
   {
     "id": 3,
-    "name": "A blue mouse",
-    "price": 26.50
+    "name": "asderfg",
+    "world" :"asdfghjk",
+    "price": 26.50,
+    "dimensions": {
+      "length": 3.1,
+      "width": 1.0,
+      "height": 1.0
+    }
   }
 ]
