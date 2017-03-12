@@ -17,11 +17,6 @@
   {
     "id": 3,
     "name": "A blue mouse",
-    "price": 25.50,
-    "dimensions": {
-      "length": 3.1,
-      "width": 1.0,
-      "height": 1.0
-    }
+    "price": 26.50
   }
 ]
